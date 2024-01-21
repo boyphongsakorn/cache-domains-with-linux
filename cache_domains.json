@@ -46,6 +46,11 @@
 			"domain_files": ["frontier.txt"]
 		},
 		{
+			"name": "google",
+			"description": "Chrome and Google Updates",
+			"domain_files": ["google.txt"]
+		},
+		{
 			"name": "nexusmods",
 			"description": "Nexus mods / skyrim content",
 			"domain_files": ["nexusmods.txt"]
