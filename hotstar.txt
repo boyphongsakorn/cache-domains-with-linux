@@ -1,1 +1,6 @@
+hses.hotstar.com
+hses2.hotstar.com
+hses3.hotstar.com
 hses4.hotstar.com
+hses5.hotstar.com
+hses6.hotstar.com
