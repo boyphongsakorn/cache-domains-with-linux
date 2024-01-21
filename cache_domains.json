@@ -51,6 +51,11 @@
 			"domain_files": ["google.txt"]
 		},
 		{
+			"name": "hotstar",
+			"description": "Disney+ Hotstar in Thailand",
+			"domain_files": ["hotstar.txt"]
+		},
+		{
 			"name": "nexusmods",
 			"description": "Nexus mods / skyrim content",
 			"domain_files": ["nexusmods.txt"]
