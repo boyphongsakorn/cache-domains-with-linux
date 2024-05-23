@@ -1,7 +1,6 @@
 arch.goober.cloud
 arch.hu.fo
 arch.jensgutermuth.de
-arch.kyberorg.fi
 arch.midov.pl
 arch.mirror.constant.com
 arch.mirror.far.fi
@@ -16,9 +15,9 @@ arch.phinau.de
 arch.sakamoto.pl
 arch.serverspace.co.uk
 arch.softver.org.mk
+arch.takehiko.pl
 arch.yhtez.xyz
 arch.yourlabs.org
-archimonde.ts.si
 archlinux-mirror.cloud.mu
 archlinux.astra.in.ua
 archlinux.c3sl.ufpr.br
@@ -27,7 +26,6 @@ archlinux.cs.nycu.edu.tw
 archlinux.cu.be
 archlinux.datagr.am
 archlinux.grena.ge
-archlinux.honkgong.info
 archlinux.interhost.co.il
 archlinux.ip-connect.vn.ua
 archlinux.iskon.hr
@@ -43,7 +41,6 @@ archlinux.mirror.kangaroot.net
 archlinux.mirror.liquidtelecom.com
 archlinux.mirror.liteserver.nl
 archlinux.mirror.net.in
-archlinux.mirror.pcextreme.nl
 archlinux.mirror.py
 archlinux.mirror.rafal.ca
 archlinux.mirror.root.lu
@@ -54,7 +51,6 @@ archlinux.mirrors.linux.ro
 archlinux.mirrors.ovh.net
 archlinux.nautile.nc
 archlinux.pop-es.rnp.br
-archlinux.rezopole.net
 archlinux.thaller.ws
 archlinux.uib.no
 archlinux.uk.mirror.allworldit.com
@@ -76,6 +72,7 @@ depo.turkiye.linux.web.tr
 dfw.mirror.rackspace.com
 distro.ibiblio.org
 edgeuno-bog2.mm.fcix.net
+elmirror.cl
 fastmirror.pp.ua
 forksystems.mm.fcix.net
 free.nchc.org.tw
@@ -143,7 +140,6 @@ lysakermoen.com
 md.mirrors.hacktegic.com
 mir.archlinux.fr
 mirroir.labhouse.fr
-mirroir.wptheme.fr
 mirror-archlinux.webruimtehosting.nl
 mirror-hk.koddos.net
 mirror.0x.sg
@@ -152,9 +148,9 @@ mirror.23m.com
 mirror.2degrees.nz
 mirror.4v1.in
 mirror.5i.fi
+mirror.accuris.ca
 mirror.adectra.com
 mirror.aktkn.sg
-mirror.albony.in
 mirror.alwyzon.net
 mirror.ams1.nl.leaseweb.net
 mirror.anquan.cl
@@ -196,6 +192,8 @@ mirror.ditatompel.com
 mirror.dkm.cz
 mirror.easyname.at
 mirror.efect.ro
+mirror.elightcap.com
+mirror.erickochen.nl
 mirror.es.its.nyu.edu
 mirror.espoch.edu.ec
 mirror.ette.biz
@@ -208,8 +206,8 @@ mirror.fsmg.org.nz
 mirror.fsrv.services
 mirror.funami.tech
 mirror.gi.co.id
+mirror.group.one
 mirror.guillaumea.fr
-mirror.hackingand.coffee
 mirror.hnd.cl
 mirror.host.ag
 mirror.hostart.az
@@ -234,6 +232,7 @@ mirror.jordanrey.me
 mirror.juniorjpdj.pl
 mirror.kaminski.io
 mirror.kamtv.ru
+mirror.kirbee.tech
 mirror.kku.ac.th
 mirror.koddos.net
 mirror.kpfu.ru
@@ -243,6 +242,7 @@ mirror.lagoon.nc
 mirror.lastmikoi.net
 mirror.lcarilla.de
 mirror.lebedinets.ru
+mirror.leitecastro.com
 mirror.librelabucm.org
 mirror.lnx.sk
 mirror.lty.me
@@ -268,7 +268,6 @@ mirror.nishi.network
 mirror.nw-sys.ru
 mirror.nyist.edu.cn
 mirror.oldsql.cc
-mirror.one.com
 mirror.onet.pl
 mirror.onevip.mk
 mirror.orbit-os.com
@@ -279,7 +278,6 @@ mirror.pit.teraswitch.com
 mirror.pmf.kg.ac.rs
 mirror.poliwangi.ac.id
 mirror.powerfly.ca
-mirror.premi.st
 mirror.ps.kz
 mirror.puzzle.ch
 mirror.quantum5.ca
@@ -312,8 +310,10 @@ mirror.theo546.fr
 mirror.tiguinet.net
 mirror.truenetwork.ru
 mirror.tux.si
+mirror.twds.com.tw
 mirror.ubrco.de
 mirror.ufam.edu.br
+mirror.ufro.cl
 mirror.ufscar.br
 mirror.umd.edu
 mirror.undisclose.de
@@ -339,6 +339,7 @@ mirrors.acm.wpi.edu
 mirrors.advancedhosters.com
 mirrors.aggregate.org
 mirrors.aliyun.com
+mirrors.atlas.net.co
 mirrors.atviras.lt
 mirrors.bfsu.edu.cn
 mirrors.bjg.at
@@ -358,6 +359,7 @@ mirrors.hit.edu.cn
 mirrors.hosterion.ro
 mirrors.hostico.ro
 mirrors.ims.nksc.lt
+mirrors.iu13.net
 mirrors.janbruckner.de
 mirrors.jlu.edu.cn
 mirrors.jxust.edu.cn
@@ -386,6 +388,7 @@ mirrors.piconets.webwerks.in
 mirrors.pidginhost.com
 mirrors.powernet.com.ru
 mirrors.qontinuum.space
+mirrors.qvq.net.cn
 mirrors.radwebhosting.com
 mirrors.rit.edu
 mirrors.rutgers.edu
@@ -437,7 +440,6 @@ ro.mirror.flokinet.net
 sg.mirrors.cicku.me
 southfront.mm.fcix.net
 super.quantum-mirror.hu
-suro.ubaya.ac.id
 syd.mirror.rackspace.com
 tux.rainside.sk
 us.mirrors.cicku.me
