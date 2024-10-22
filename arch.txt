@@ -1,4 +1,5 @@
 al.arch.niranjan.co
+arch-mirror.marcusspencer.xyz
 arch.goober.cloud
 arch.hu.fo
 arch.jensgutermuth.de
@@ -11,13 +12,12 @@ arch.mirrors.lavatech.top
 arch.mirrors.pair.com
 arch.mithril.re
 arch.nimukaito.net
-arch.niranjan.co
 arch.petarmaric.com
 arch.phinau.de
 arch.sakamoto.pl
 arch.serverspace.co.uk
 arch.softver.org.mk
-arch.takehiko.pl
+arch.syxpi.fr
 arch.yhtez.xyz
 arch.yourlabs.org
 archlinux-mirror.cloud.mu
@@ -135,6 +135,7 @@ iad.mirror.rackspace.com
 iad.mirrors.misaka.one
 il.us.mirror.archlinux-br.org
 in-mirror.garudalinux.org
+in.arch.niranjan.co
 in.mirrors.cicku.me
 irltoolkit.mm.fcix.net
 is.mirror.flokinet.net
@@ -205,7 +206,6 @@ mirror.ditatompel.com
 mirror.dkm.cz
 mirror.easyname.at
 mirror.efect.ro
-mirror.es.its.nyu.edu
 mirror.espoch.edu.ec
 mirror.ette.biz
 mirror.faizuladib.com
@@ -218,6 +218,7 @@ mirror.funami.tech
 mirror.gi.co.id
 mirror.group.one
 mirror.guillaumea.fr
+mirror.hasphetica.win
 mirror.hnd.cl
 mirror.host.ag
 mirror.hostart.az
@@ -242,7 +243,6 @@ mirror.jordanrey.me
 mirror.juniorjpdj.pl
 mirror.kaminski.io
 mirror.kamtv.ru
-mirror.kirbee.tech
 mirror.kku.ac.th
 mirror.koddos.net
 mirror.kpfu.ru
@@ -302,6 +302,7 @@ mirror.sahil.world
 mirror.satis-faction.de
 mirror.scd31.com
 mirror.selfnet.de
+mirror.server.net
 mirror.serverion.com
 mirror.sfo12.us.leaseweb.net
 mirror.sg.gs
@@ -389,8 +390,6 @@ mirrors.mit.edu
 mirrors.myaegean.gr
 mirrors.n-ix.net
 mirrors.nav.ro
-mirrors.neterra.net
-mirrors.netix.net
 mirrors.neusoft.edu.cn
 mirrors.nic.cz
 mirrors.nix.org.ua
@@ -404,9 +403,9 @@ mirrors.pablonara.com
 mirrors.piconets.webwerks.in
 mirrors.pidginhost.com
 mirrors.powernet.com.ru
-mirrors.qontinuum.space
 mirrors.qvq.net.cn
 mirrors.radwebhosting.com
+mirrors.reitarovskyi.tech
 mirrors.rit.edu
 mirrors.rutgers.edu
 mirrors.shanghaitech.edu.cn
@@ -455,9 +454,11 @@ repo.miserver.it.umich.edu
 repo.skni.umcs.pl
 repository.su
 ridgewireless.mm.fcix.net
+ro.arch.niranjan.co
 ro.mirror.flokinet.net
 ru.mirrors.cicku.me
 sa.mirrors.cicku.me
+sg.arch.niranjan.co
 sg.mirrors.cicku.me
 southfront.mm.fcix.net
 super.quantum-mirror.hu
