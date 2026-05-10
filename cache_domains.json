@@ -60,6 +60,11 @@
 			"description": "Disney+ Hotstar in Thailand",
 			"domain_files": ["hotstar.txt"]
 		},
+        {
+			"name": "maven",
+			"description": "CDN for Java Maven",
+			"domain_files": ["maven.txt"]
+		},
 		{
 			"name": "nexusmods",
 			"description": "Nexus mods / skyrim content",
