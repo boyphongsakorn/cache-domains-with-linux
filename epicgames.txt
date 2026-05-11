@@ -14,3 +14,4 @@ cloudflare.epicgamescdn.com
 egdownload.fastly-edge.com
 egs-download-manager.store.on.epicgames.com
 library-service.live.use1a.on.epicgames.com
+launcher-public-service-prod06.ol.epicgames.com
