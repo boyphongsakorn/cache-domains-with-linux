@@ -13,3 +13,4 @@ fastly-download.epicgames.com
 cloudflare.epicgamescdn.com
 egdownload.fastly-edge.com
 egs-download-manager.store.on.epicgames.com
+library-service.live.use1a.on.epicgames.com
