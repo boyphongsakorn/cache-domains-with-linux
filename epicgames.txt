@@ -18,3 +18,4 @@ launcher-public-service-prod06.ol.epicgames.com
 datarouter.ol.epicgames.com
 datarouter-prod.ak.epicgames.com
 eosh.epicgamescdn.com
+selective-download-egs.distro.on.epicgames.com
