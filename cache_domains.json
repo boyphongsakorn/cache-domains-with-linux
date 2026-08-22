@@ -112,6 +112,11 @@
 			"description": "CDN for sony / playstation",
 			"domain_files": ["sony.txt"]
 		},
+        {
+			"name": "soulframe",
+			"description": "CDN for Soulframe",
+			"domain_files": ["soulframe.txt"]
+		},
 		{
 			"name": "square",
 			"description": "CDN for Final Fantasy XIV",
