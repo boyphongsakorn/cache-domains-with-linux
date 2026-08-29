@@ -295,6 +295,7 @@ mirror.sg.gs
 mirror.siena.edu
 mirror.sinirlan.net
 mirror.siwoo.org
+mirror.stephanie.is
 mirror.sunred.org
 mirror.t-home.mk
 mirror.techlabs.co.kr
