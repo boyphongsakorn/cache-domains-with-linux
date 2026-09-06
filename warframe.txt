@@ -1,1 +1,2 @@
 content.warframe.com
+content-swi.warframe.com
