@@ -19,6 +19,7 @@ arch.syxpi.fr
 arch.yhtez.xyz
 arch.yourlabs.org
 archlinux-mirror.cloud.mu
+archlinux-mirror.techticity.com
 archlinux.c3sl.ufpr.br
 archlinux.ccns.ncku.edu.tw
 archlinux.cs.nycu.edu.tw
@@ -29,6 +30,7 @@ archlinux.interhost.co.il
 archlinux.ip-connect.vn.ua
 archlinux.iskon.hr
 archlinux.koyanet.lv
+archlinux.kushwanthreddy.com
 archlinux.mailtunnel.eu
 archlinux.mirror.digitalpacific.com.au
 archlinux.mirror.garr.it
@@ -193,7 +195,7 @@ mirror.dkm.cz
 mirror.easyname.at
 mirror.efect.ro
 mirror.es.cdn-perfprod.com
-mirror.ette.biz
+mirror.famaserver.com
 mirror.fcix.net
 mirror.fossable.org
 mirror.fr.cdn-perfprod.com
@@ -225,6 +227,7 @@ mirror.its.dal.ca
 mirror.jingk.ai
 mirror.jonas-prz.be
 mirror.juniorjpdj.pl
+mirror.kalem.dev
 mirror.kamtv.ru
 mirror.keiminem.com
 mirror.kku.ac.th
@@ -259,7 +262,6 @@ mirror.netcologne.de
 mirror.netweaver.uk
 mirror.neuf.no
 mirror.nl.cdn-perfprod.com
-mirror.nucc.tr
 mirror.nw-sys.ru
 mirror.nyaa.vc
 mirror.nyist.edu.cn
@@ -293,6 +295,7 @@ mirror.sg.gs
 mirror.siena.edu
 mirror.sinirlan.net
 mirror.siwoo.org
+mirror.stephanie.is
 mirror.sunred.org
 mirror.t-home.mk
 mirror.techlabs.co.kr
@@ -370,6 +373,7 @@ mirrors.nju.edu.cn
 mirrors.nxtgen.com
 mirrors.nxthost.com
 mirrors.ocf.berkeley.edu
+mirrors.ostentiaz.net
 mirrors.pablonara.com
 mirrors.pidginhost.com
 mirrors.powernet.com.ru
@@ -389,6 +393,7 @@ mirrors.up.pt
 mirrors.urbanwave.co.za
 mirrors.ustc.edu.cn
 mirrors.vectair.net
+mirrors.vpspulse.com
 mirrors.wsyu.edu.cn
 mirrors.xmission.com
 mirrors.xtom.com
@@ -412,7 +417,6 @@ ossmirror.mycloud.services
 packages.oth-regensburg.de
 pkg.adfinis-on-exoscale.ch
 plug-mirror.rcac.purdue.edu
-repo.br.ee
 repo.customcomputercare.com
 repo.hyron.dev
 repo.ialab.dsu.edu
