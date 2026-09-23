@@ -1,2 +1,3 @@
 content.warframe.com
 content-swi.warframe.com
+content-and.warframe.com
