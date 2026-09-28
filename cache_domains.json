@@ -80,6 +80,11 @@
 			"description": "CDN for Nintendo consoles and download servers",
 			"domain_files": ["nintendo.txt"]
 		},
+        {
+			"name": "nte",
+			"description": "CDN for Neverness to Everness download servers",
+			"domain_files": ["nte.txt"]
+		},
 		{
 			"name": "origin",
 			"description": "CDN for origin",
