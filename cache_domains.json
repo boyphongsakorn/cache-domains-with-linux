@@ -51,11 +51,6 @@
 			"domain_files": ["frontier.txt"]
 		},
 		{
-			"name": "google",
-			"description": "Chrome and Google Updates",
-			"domain_files": ["google.txt"]
-		},
-		{
 			"name": "hotstar",
 			"description": "Disney+ Hotstar in Thailand",
 			"domain_files": ["hotstar.txt"]
