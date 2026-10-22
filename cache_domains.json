@@ -10,6 +10,11 @@
 			"description": "CDN for guild wars, HoT",
 			"domain_files": ["arenanet.txt"]
 		},
+        {
+			"name": "arknights",
+			"description": "CDN for guild wars, HoT",
+			"domain_files": ["arknights.txt"]
+		},
 		{
 			"name": "blizzard",
 			"description": "CDN for blizzard/battle.net",
