@@ -13,6 +13,7 @@ arch.mirrors.lavatech.top
 arch.mithril.re
 arch.owochle.app
 arch.phinau.de
+arch.s-levi.com
 arch.sakamoto.pl
 arch.softver.org.mk
 arch.syxpi.fr
@@ -148,6 +149,7 @@ mirror.abderraziq.com
 mirror.accum.se
 mirror.adectra.com
 mirror.aktkn.sg
+mirror.alastyr.com
 mirror.alldaydev.com
 mirror.alwyzon.net
 mirror.ams1.nl.leaseweb.net
@@ -246,13 +248,13 @@ mirror.netcologne.de
 mirror.netweaver.uk
 mirror.neuf.no
 mirror.nl.cdn-perfprod.com
+mirror.nl2.cdn-perfprod.com
 mirror.nw-sys.ru
 mirror.nyaa.vc
 mirror.nyist.edu.cn
 mirror.oldsql.cc
 mirror.onevip.mk
 mirror.ourhost.az
-mirror.pagenotfound.de
 mirror.peeres-telecom.fr
 mirror.pileus.kr
 mirror.pit.teraswitch.com
@@ -297,6 +299,10 @@ mirror.ufam.edu.br
 mirror.ufscar.br
 mirror.umd.edu
 mirror.us.cdn-perfprod.com
+mirror.us2.cdn-perfprod.com
+mirror.us3.cdn-perfprod.com
+mirror.us4.cdn-perfprod.com
+mirror.us5.cdn-perfprod.com
 mirror.vpsfree.cz
 mirror.vtti.vt.edu
 mirror.wane.kr
@@ -309,6 +315,7 @@ mirror.xtom.com.hk
 mirror.yandex.ru
 mirror.yer.az
 mirror.yuki.net.uk
+mirror.zyner.org
 mirror1.sox.rs
 mirror2.evolution-host.com
 mirror2.keiminem.com
@@ -368,7 +375,6 @@ mirrors.tuna.tsinghua.edu.cn
 mirrors.udenar.edu.co
 mirrors.ukfast.co.uk
 mirrors.uni-plovdiv.net
-mirrors.up.pt
 mirrors.ustc.edu.cn
 mirrors.vectair.net
 mirrors.vpspulse.com
@@ -394,6 +400,7 @@ ossmirror.mycloud.services
 packages.oth-regensburg.de
 pkg.adfinis-on-exoscale.ch
 plug-mirror.rcac.purdue.edu
+prism.viarezo.fr
 repo.customcomputercare.com
 repo.hyron.dev
 repo.ialab.dsu.edu
