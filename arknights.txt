@@ -1,0 +1,2 @@
+beyond.hg-cdn.com
+gl-utils-public.hg-cdn.com
