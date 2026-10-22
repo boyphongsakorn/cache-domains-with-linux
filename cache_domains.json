@@ -12,7 +12,7 @@
 		},
         {
 			"name": "arknights",
-			"description": "CDN for guild wars, HoT",
+			"description": "CDN for arknights",
 			"domain_files": ["arknights.txt"]
 		},
 		{
