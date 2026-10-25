@@ -65,6 +65,11 @@
 			"description": "CDN for Java Maven",
 			"domain_files": ["maven.txt"]
 		},
+        {
+			"name": "netmarble",
+			"description": "Netmarble CDN",
+			"domain_files": ["netmarble.txt"]
+		},
 		{
 			"name": "nexusmods",
 			"description": "Nexus mods / skyrim content",
