@@ -7,7 +7,7 @@
 		},
 		{
 			"name": "arenanet",
-			"description": "CDN for guild wars, HoT",
+			"description": "CDN for Guild Wars, HoT",
 			"domain_files": ["arenanet.txt"]
 		},
         {
@@ -17,13 +17,8 @@
 		},
 		{
 			"name": "blizzard",
-			"description": "CDN for blizzard/battle.net",
+			"description": "CDN for Blizzard/Battle.net",
 			"domain_files": ["blizzard.txt"]
-		},
-        {
-			"name": "cod",
-			"description": "CDN for Call of Duty",
-			"domain_files": ["cod.txt"]
 		},
 		{
 			"name": "bsg",
@@ -35,9 +30,14 @@
 			"description": "CDN for City of Heroes (Homecoming)",
 			"domain_files": ["cityofheroes.txt"]
 		},
+        {
+			"name": "cod",
+			"description": "CDN for Call of Duty",
+			"domain_files": ["cod.txt"]
+		},
 		{
 			"name": "daybreak",
-			"description": "Daybreak games CDN",
+			"description": "CDN for Daybreak Games",
 			"domain_files": ["daybreak.txt"]
 		},
 		{
@@ -52,7 +52,7 @@
 		},
 		{
 			"name": "frontier",
-			"description": "CDN for frontier games",
+			"description": "CDN for Frontier Games",
 			"domain_files": ["frontier.txt"]
 		},
 		{
@@ -82,12 +82,12 @@
 		},
 		{
 			"name": "nintendo",
-			"description": "CDN for Nintendo consoles and download servers",
+			"description": "CDN for Nintendo consoles",
 			"domain_files": ["nintendo.txt"]
 		},
         {
 			"name": "nte",
-			"description": "CDN for Neverness to Everness download servers",
+			"description": "CDN for Neverness to Everness",
 			"domain_files": ["nte.txt"]
 		},
 		{
@@ -144,12 +144,12 @@
 		},
         {
             "name": "test",
-            "description": "Test CDN, recommended to enable for additional diagnostics",
+            "description": "CDN for Testing, recommended to enable for additional diagnostics",
             "domain_files": ["test.txt"]
         },
 		{
 			"name": "uplay",
-			"description": "CDN for uplay downloader",
+			"description": "CDN for Ubisoft",
 			"domain_files": ["uplay.txt"]
 		},
 		{
