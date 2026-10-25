@@ -1,9 +1,19 @@
 {
   "cache_domains": [
     {
+      "name": "arch",
+      "description": "Arch Linux based repositories",
+      "domain_files": ["arch.txt"]
+    },
+    {
       "name": "arenanet",
       "description": "CDN for Guild Wars, HoT",
       "domain_files": ["arenanet.txt"]
+    },
+    {
+      "name": "arknights",
+      "description": "CDN for arknights",
+      "domain_files": ["arknights.txt"]
     },
     {
       "name": "blizzard",
@@ -31,6 +41,11 @@
       "domain_files": ["daybreak.txt"]
     },
     {
+			"name": "debian",
+			"description": "Debian based repositories",
+			"domain_files": ["debian.txt"]
+		},
+    {
       "name": "epicgames",
       "description": "CDN for Epic Games",
       "domain_files": ["epicgames.txt"]
@@ -40,6 +55,21 @@
       "description": "CDN for Frontier Games",
       "domain_files": ["frontier.txt"]
     },
+    {
+			"name": "hotstar",
+			"description": "Disney+ Hotstar in Thailand",
+			"domain_files": ["hotstar.txt"]
+		},
+    {
+			"name": "maven",
+			"description": "CDN for Java Maven",
+			"domain_files": ["maven.txt"]
+		},
+    {
+			"name": "netmarble",
+			"description": "Netmarble CDN",
+			"domain_files": ["netmarble.txt"]
+		},
     {
       "name": "neverwinter",
       "description": "Cryptic CDN for Neverwinter",
@@ -55,6 +85,11 @@
       "description": "CDN for Nintendo consoles",
       "domain_files": ["nintendo.txt"]
     },
+    {
+			"name": "nte",
+			"description": "CDN for Neverness to Everness",
+			"domain_files": ["nte.txt"]
+		},
     {
       "name": "origin",
       "description": "CDN for Origin",
@@ -87,6 +122,11 @@
       "description": "CDN for Sony/PSN",
       "domain_files": ["sony.txt"]
     },
+    {
+			"name": "soulframe",
+			"description": "CDN for Soulframe",
+			"domain_files": ["soulframe.txt"]
+		},
     {
       "name": "square",
       "description": "CDN for Final Fantasy XIV",
